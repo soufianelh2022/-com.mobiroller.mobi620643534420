@@ -10,33 +10,33 @@
         "applovin_rewarded": "7ac3f6ee667a6264",
         "applovin_interstitial": "98f6a586ed642919"
     },
-    "flag": "https://flagsapi.com/US/flat/64.png",
-    "language": "English",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Prague_10.svg/800px-Flag_of_Prague_10.svg.png",
+    "language": "Russian",
     "featuredApp": {
         "appIcon": "https://play-lh.googleusercontent.com/9WmApJFHx_vPc98f_RbPKWbioUEmsIaJ7R00wekRxKFhLQIsG6JYhoNT8R54g_irVA=w240-h480-rw",
         "appLink": "https://play.google.com/store/apps/details?id=com.vapp.vmanager",
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.png",
         "appTitle": "V Manager",
-        "isActive": true,
+        "isActive": false,
         "appRating": "5.0",
         "appDescription": "V Manager is a tool where you can download and update YV. A tool intended to eliminate the tedious steps required to install YV."
     },
     "moreApps": [
         {
-            "image": "https://picsum.photos/300/200?random=23",
-            "title": "Weather Pro",
-            "appLink": "https://play.google.com/store/apps/weather"
+            "image": "https://play-lh.googleusercontent.com/ok0Vj1zvs1kqK86Go_9SG-10mwSL_8eql_QPxWrwVrXY7cts9leX4DHOHFJ-5G4t87Vu=s48-rw",
+            "title": "Tower of God: New World",
+            "appLink": "https://play.google.com/store/apps/details?id=com.netmarble.tog&pcampaignid=merch_published_cluster_promotion_battlestar_browse_all_games"
         },
         {
-            "image": "https://picsum.photos/300/200?random=24",
-            "title": "Fitness Tracker",
-            "appLink": "https://play.google.com/store/apps/fitness"
+            "image": "https://play-lh.googleusercontent.com/1qSQXHyGaC1zbxFaeDjX7gFWpuZTANR6vbtU4D0YqYrrdmRprAZSLD4pk-0tnoZBFlw=s48-rw",
+            "title": "Lineage 2: Revolution",
+            "appLink": "https://play.google.com/store/apps/details?id=com.netmarble.lin2ws"
         },
         {
-            "image": "https://picsum.photos/300/200?random=25",
-            "title": "Recipe Book",
-            "appLink": "https://play.google.com/store/apps/recipe"
+            "image": "https://play-lh.googleusercontent.com/Ry4xcfn6-gnoIMH-OTyLZ9r_-ZXX1K_LzAAC1MAIEZNslFbhMszV0kAYjPyaJZzhJ0Q=s48-rw",
+            "title": "The Seven Deadly Sins: Idle",
+            "appLink": "https://play.google.com/store/apps/details?id=com.netmarble.nanarise"
         }
     ],
     "categories": [
@@ -44,99 +44,99 @@
             "items": [
                 {
                     "size": "2.8 MB",
-                    "image": "https://picsum.photos/300/200?random=2",
-                    "title": "Adventure Quest",
+                    "image": "https://i.ytimg.com/vi/wtaEzn-TWMg/maxresdefault.jpg?7857057827",
+                    "title": "Картинки ПРИВАТКА СТЕНДОФФ",
                     "lastUpdated": "2024-03-15",
                     "isrecommended": true
                 },
                 {
                     "size": "1.5 MB",
-                    "image": "https://picsum.photos/300/200?random=3",
-                    "title": "Puzzle Master",
+                    "image": "https://i.ytimg.com/vi/45AhApkfy88/maxresdefault.jpg",
+                    "title": "Картинки ПРИВАТКА STANDOFF  0.27",
                     "lastUpdated": "2024-03-10",
                     "isrecommended": false
                 },
                 {
                     "size": "4.2 MB",
-                    "image": "https://picsum.photos/300/200?random=4",
-                    "title": "Racing Stars",
+                    "image": "https://steamuserimages-a.akamaihd.net/ugc/2405571925793910552/166CB0C8C843B5ADD9FC1674B9DB90467582DC79/",
+                    "title": "Картинки ПРИВАТКА V2",
                     "lastUpdated": "2024-03-20",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=1",
-            "categoryTitle": "Games"
+            "categoryImage": "https://virtus-img.cdnvideo.ru/images/og-jpg/plain/28/2895a60b-adad-41e0-bd1a-55ed1ab3116d.png",
+            "categoryTitle": "Стендофф 2 приватки старой версии"
         },
         {
             "items": [
                 {
                     "size": "1.2 MB",
-                    "image": "https://picsum.photos/300/200?random=6",
-                    "title": "File Manager Pro",
+                    "image": "https://pic.rutubelist.ru/video/8a/56/8a56384c1284e4f86e4675afc02ef3f9.jpg",
+                    "title": "Зашёл в приватку в2",
                     "lastUpdated": "2024-03-18",
                     "isrecommended": true
                 },
                 {
                     "size": "0.8 MB",
-                    "image": "https://picsum.photos/300/200?random=7",
-                    "title": "Battery Saver",
+                    "image": "https://i.ytimg.com/vi/IkLCJam9Mug/maxresdefault.jpg",
+                    "title": "НОВЫЙ ПРИВАТНЫЙ",
                     "lastUpdated": "2024-03-12",
                     "isrecommended": false
                 },
                 {
                     "size": "1.0 MB",
-                    "image": "https://picsum.photos/300/200?random=8",
-                    "title": "Calculator Plus",
+                    "image": "https://i.ytimg.com/vi/-i2YcJTT3qM/maxresdefault.jpg",
+                    "title": "Туториал как скачать",
                     "lastUpdated": "2024-03-22",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=5",
-            "categoryTitle": "Utilities"
+            "categoryImage": "https://i.ytimg.com/vi/vSUsxD7QFlo/maxresdefault.jpg",
+            "categoryTitle": "Скачать Приватка v2 9.3 "
         },
         {
             "items": [
                 {
                     "size": "3.5 MB",
-                    "image": "https://picsum.photos/300/200?random=10",
-                    "title": "Music Player",
+                    "image": "https://pic.rutubelist.ru/video/4a/1d/4a1d0d2d2a4e660190c06188a37076be.jpg",
+                    "title": "КАК НАСТРОИТЬ ",
                     "lastUpdated": "2024-03-25",
                     "isrecommended": true
                 },
                 {
                     "size": "5.2 MB",
-                    "image": "https://picsum.photos/300/200?random=11",
-                    "title": "Video Editor",
+                    "image": "https://i0.wp.com/i.artfile.ru/2096x1080_1632196_[www.ArtFile.ru].jpg?ssl=1",
+                    "title": "ОТКРЫВАЕМ КЕЙСЫ",
                     "lastUpdated": "2024-03-19",
                     "isrecommended": false
                 },
                 {
                     "size": "2.1 MB",
-                    "image": "https://picsum.photos/300/200?random=12",
-                    "title": "Photo Gallery",
+                    "image": "https://i.ytimg.com/vi/XFCdcTwRWMU/maxresdefault.jpg",
+                    "title": "сделал мувик в приватке",
                     "lastUpdated": "2024-03-21",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=9",
-            "categoryTitle": "Entertainment"
+            "categoryImage": "https://i.ytimg.com/vi/tRq3t5vETwM/maxresdefault.jpg",
+            "categoryTitle": "купил Force Work коллекцию "
         }
     ],
     "youtubeVideos": [
         {
-            "image": "https://picsum.photos/300/200?random=13",
-            "title": "Getting Started Tutorial",
-            "videoLink": "https://youtube.com/watch?v=abc123"
+            "image": "https://s0.rbk.ru/v6_top_pics/media/img/7/90/347090340384907.webp",
+            "title": "ТОП 4 КРУТЕЙШИЕ ПРИВАТКИ ",
+            "videoLink": "https://www.youtube.com/watch?v=-1Fn7M5ax40"
         },
         {
-            "image": "https://picsum.photos/300/200?random=14",
-            "title": "Advanced Features Guide",
-            "videoLink": "https://youtube.com/watch?v=def456"
+            "image": "https://i.ytimg.com/vi/d78BwGO36m4/maxresdefault.jpg",
+            "title": "ТОП 5 САМЫХ ТОПОВЫХ ПРИВАТОК",
+            "videoLink": "https://www.youtube.com/watch?v=5f-BT7TgnAQ"
         },
         {
-            "image": "https://picsum.photos/300/200?random=15",
-            "title": "Tips and Tricks",
-            "videoLink": "https://youtube.com/watch?v=ghi789"
+            "image": "https://i.ytimg.com/vi/Y6xEIBdlUdk/maxresdefault.jpg",
+            "title": "Я ТРЕЙДИ 7 ДНЕЙ НА ЗАПРОСАХ И ЗАРАБОТАЛ",
+            "videoLink": "https://www.youtube.com/watch?v=HGwZiu102vs"
         }
     ],
     "sharedStrings": {
@@ -180,7 +180,7 @@
     "send_feedback": "Отправьте нам отзыв",
     "settings_text": "Настройки",
     "watch_ad_text": "Смотреть рекламу",
-    "welcome_title": "Добро пожаловать в Skin Tool ML",
+    "welcome_title": "Добро пожаловать в приватка v2   ",
     "chooseLanguage": "Выберите язык",
     "daily_congrats": "Поздравляем!",
     "downloads_left": "скачиваний осталось",
@@ -188,8 +188,8 @@
     "drawer_privacy": "Политика конфиденциальности",
     "favorites_text": "Избранное",
     "pack_skin_list": "Список скинов",
-    "save_to_ml_btn": "СОХРАНИТЬ В ML",
-    "save_to_ml_msg": "Используйте кнопку СОХРАНИТЬ В ML, чтобы начать установку. Пропустите этот шаг, если он уже установлен",
+    "save_to_ml_btn": "СОХРАНИТЬ В приватка v2 для стандофф 2 ",
+    "save_to_ml_msg": "Используйте кнопку СОХРАНИТЬ В приватка v2 для стандофф 2 , чтобы начать установку. Пропустите этот шаг, если он уже установлен",
     "categories_text": "Категории",
     "delete_skin_sub": "Вы уверены, что хотите удалить этот скин?",
     "dont_show_again": "Больше не показывать это приложение",
